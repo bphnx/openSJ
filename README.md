@@ -10,7 +10,11 @@ The encoding algorithm and UX are based on the original app and the documentatio
 
 The main objective of this repo is to have an available base to be able to create alternative apps for new judging formats and testing them.
 
-Published on: https://bphnx.github.io/openSJ/
+[Published here](https://bphnx.github.io/openSJ/)
+
+## Pending features
+- Reset PEN on long press
+- Decode screen
 
 # Tech Readme
 
