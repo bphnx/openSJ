@@ -10,6 +10,12 @@ The encoding algorithm and UX are based on the original app and the documentatio
 
 The main objective of this repo is to have an available base to be able to create alternative apps for new judging formats and testing them.
 
+[Published here](https://bphnx.github.io/openSJ/)
+
+## Pending features
+- Reset PEN on long press
+- Decode screen
+
 # Tech Readme
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
