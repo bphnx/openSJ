@@ -15,6 +15,7 @@ The main objective of this repo is to have an available base to be able to creat
 ## Pending features
 - Reset PEN on long press
 - Decode screen
+- Reset All not working on mobile browser
 
 # Tech Readme
 
